@@ -8,155 +8,141 @@ Service Based Companies :
 Job description 1:
 
 - Customer requirement analysis as it pertains to automotive cybersecurity
-Create/Maintain Threat and Risk Assessment (TARA) of automotive systems
-Define cybersecurity requirements for projects
-Specification, design, and review of the security architecture with the system/software team
-Create/Maintain DIA (Development Interface Agreement)
-Conduct security feasibility and risk analysis for security architecture
-Support the test strategy definition to exercise the security system
-Plan, design, and execute fuzz and penetration testing
-Train and coach of junior engineers
-Aid in creation/maintenance of cybersecurity process in the organization
-Support cybersecurity incident detection and investigation
+- Create/Maintain Threat and Risk Assessment (TARA) of automotive systems
+- Define cybersecurity requirements for projects
+- Specification, design, and review of the security architecture with the system/software team
+- Create/Maintain DIA (Development Interface Agreement)
+- Conduct security feasibility and risk analysis for security architecture
+- Support the test strategy definition to exercise the security system
+- Plan, design, and execute fuzz and penetration testing
+- Train and coach of junior engineers
+- Aid in creation/maintenance of cybersecurity process in the organization
+- Support cybersecurity incident detection and investigation
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 2:
 
 - Security Infrastructure Management: Design, implement, and maintain security infrastructure, including firewalls, intrusion detection/prevention systems (IDS/IPS), antivirus software, encryption tools, and other security-related technologies.
-Vulnerability Assessment and Penetration Testing: Conduct regular security assessments to identify vulnerabilities and weaknesses in the organization's systems. Perform penetration testing to evaluate the resilience of security measures against real-world attacks.
-Incident Response: Develop and execute incident response plans to address and mitigate security breaches and cyber incidents. Investigate and analyze security incidents to determine their root cause and prevent future occurrences.
-Security Policy and Procedure Development: Create and update security policies, standards, and procedures that align with industry best practices and compliance requirements. Ensure the organization's security policies are followed by all employees and stakeholders.
-Security Monitoring and Analysis: Monitor network traffic, system logs, and security alerts to detect and respond to potential security threats. Implement security information and event management (SIEM) solutions for efficient security monitoring.
-Identity and Access Management (IAM): Manage user access and permissions to systems and data, implementing role-based access controls (RBAC) and multi-factor authentication (MFA) where appropriate.
-Security Training and Awareness: Conduct security awareness training for employees to educate them about cybersecurity best practices and raise awareness about potential threats.
-Patch Management: Monitor and apply security patches and updates to operating systems, software, and applications to address known vulnerabilities.
-Security Compliance: Ensure compliance with relevant cybersecurity regulations, industry standards, and internal security policies.
+- Vulnerability Assessment and Penetration Testing: Conduct regular security assessments to identify vulnerabilities and weaknesses in the organization's systems. Perform penetration testing to evaluate the resilience of security measures against real-world attacks.
+- Incident Response: Develop and execute incident response plans to address and mitigate security breaches and cyber incidents. Investigate and analyze security incidents to determine their root cause and prevent future occurrences.
+- Security Policy and Procedure Development: Create and update security policies, standards, and procedures that align with industry best practices and compliance requirements. Ensure the organization's security policies are followed by all employees and stakeholders.
+- Security Monitoring and Analysis: Monitor network traffic, system logs, and security alerts to detect and respond to potential security threats. Implement security information and event management (SIEM) solutions for efficient security monitoring.
+- Identity and Access Management (IAM): Manage user access and permissions to systems and data, implementing role-based access controls (RBAC) and multi-factor authentication (MFA) where appropriate.
+- Security Training and Awareness: Conduct security awareness training for employees to educate them about cybersecurity best practices and raise awareness about potential threats.
+- Patch Management: Monitor and apply security patches and updates to operating systems, software, and applications to address known vulnerabilities.
+- Security Compliance: Ensure compliance with relevant cybersecurity regulations, industry standards, and internal security policies.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 3:
 
 - Strong Problem-Solving and Analytical Skills: Proficient in critical thinking and decision-making, even when faced with limited information.
-Excellent Communication and Interpersonal Skills: Exceptional verbal and written communication abilities for effective collaboration with internal teams and external stakeholders or clients.
-Penetration Testing: Proficiency in conducting penetration testing with experience in web application and/or API/mobile pen testing, ideally encompassing at least OWASP Top 10 vulnerabilities or, even better, OWASP ASVS.
-Development Methodologies and Secure Coding Practices: Good understanding of development methodologies and secure coding practices.
-Network Protocols, Operating Systems, and Security Technologies: Great understanding of network protocols, operating systems, and security technologies.
-Tool Proficiency: Should have proficiency in tools like Burp Suite Professional, Nessus, Frida, Objection, and MobSF.
-DevSecOps Knowledge: Good understanding of DevSecOps methodologies, including SAST (Static Application Security Testing), SCA (Software Composition Analysis), and DAST (Dynamic Application Security Testing).
-Cybersecurity Policy and Procedure Development: Assist in developing and refining cybersecurity policies and procedures to enhance the overall security posture of products/services.
-APIs and Reporting Tools: A broad knowledge of APIs and reporting tools and experience with their integration is an added advantage for the role.
-Cloud Security Knowledge: In-depth knowledge of cloud security features and configuration.
-Industry Certifications: Possession of industry certifications such as training for eWPT (eLearnSecurity Web-Application Penetration Tester), eJPT (eLearnSecurity Junior Penetration Tester), PNPT (Practical Network Penetration Tester), OSCP (Offensive Security Certified Professional), or other relevant certifications is highly desirable.
-Continuous Learning: We ensure you stay updated with the latest cybersecurity trends, tools, and techniques, fostering personal and team knowledge improvement. We believe in knowledge sharing and expect the same from you in a continuous learning and growing environment.
+- Excellent Communication and Interpersonal Skills: Exceptional verbal and written communication abilities for effective collaboration with internal teams and external stakeholders or clients.
+- Penetration Testing: Proficiency in conducting penetration testing with experience in web application and/or API/mobile pen testing, ideally encompassing at least OWASP Top 10 vulnerabilities or, even better, OWASP ASVS.
+- Development Methodologies and Secure Coding Practices: Good understanding of development methodologies and secure coding practices.
+- Network Protocols, Operating Systems, and Security Technologies: Great understanding of network protocols, operating systems, and security technologies.
+- Tool Proficiency: Should have proficiency in tools like Burp Suite Professional, Nessus, Frida, Objection, and MobSF.
+- DevSecOps Knowledge: Good understanding of DevSecOps methodologies, including SAST (Static Application Security Testing), SCA (Software Composition Analysis), and DAST (Dynamic Application Security Testing).
+- Cybersecurity Policy and Procedure Development: Assist in developing and refining cybersecurity policies and procedures to enhance the overall security posture of products/services.
+- APIs and Reporting Tools: A broad knowledge of APIs and reporting tools and experience with their integration is an added advantage for the role.
+- Cloud Security Knowledge: In-depth knowledge of cloud security features and configuration.
+- Industry Certifications: Possession of industry certifications such as training for eWPT (eLearnSecurity Web-Application Penetration Tester), eJPT (eLearnSecurity Junior Penetration Tester), PNPT (Practical Network Penetration Tester), OSCP (Offensive Security Certified Professional), or other relevant certifications is highly desirable.
+- Continuous Learning: We ensure you stay updated with the latest cybersecurity trends, tools, and techniques, fostering personal and team knowledge improvement. We believe in knowledge sharing and expect the same from you in a continuous learning and growing environment.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 4:
 
--Ensure security of Gas Analysis products within the framework of industrial automation and control systems
-Provide technical analysis of product vulnerabilities and articulate impact to end users
-Execute essential cybersecurity elements of product development processes
-Performing cybersecurity technical impact analysis of product changes
-Support technical cybersecurity certification activities for Gas Analysis products
-Ensure SDLC is followed for product development to maintain certification compliance
-Co-ordinate security scans, fuzz and penetration testing on products. Analyze results and ensure vulnerabilities are addressed
-Lead threat modeling activities for Gas Analysis products
-Develop proof-of-concept prototypes to determine feasibility and risks of various security solutions
-Liase with Emerson platform cybersecurity team to align on global strategic initiatives, best practice guidelines and support internal audits
-Occasional travel may be required, such as training or customer support
-Other responsibilities or tasks that are within your skills and abilities, whenever reasonably instructed. The business reserves the right to make reasonable adjustments in line with business requirements. This job description is non-contractual and is for information and mutual understanding of both parties.
+- Ensure security of Gas Analysis products within the framework of industrial automation and control systems
+- Provide technical analysis of product vulnerabilities and articulate impact to end users
+- Execute essential cybersecurity elements of product development processes
+- Performing cybersecurity technical impact analysis of product changes
+- Support technical cybersecurity certification activities for Gas Analysis products
+- Ensure SDLC is followed for product development to maintain certification compliance
+- Co-ordinate security scans, fuzz and penetration testing on products. Analyze results and ensure vulnerabilities are addressed
+- Lead threat modeling activities for Gas Analysis products
+- Develop proof-of-concept prototypes to determine feasibility and risks of various security solutions
+- Liase with Emerson platform cybersecurity team to align on global strategic initiatives, best practice guidelines and support internal audits
+- Occasional travel may be required, such as training or customer support
+- Other responsibilities or tasks that are within your skills and abilities, whenever reasonably instructed. The business reserves the right to make reasonable adjustments in line with business requirements. This job description is non-contractual and is for information and mutual understanding of both parties.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 5:
 
-NGFW, SASE, Cloud Security, DLP, EDR, SIEM, MDM, CASB, WAF etc..
-Bachelors degree in a related field, such as computer science or cybersecurity
-Experience in cybersecurity, network security, or a related field
-Knowledge of security protocols and technologies, such as firewalls, intrusion detection systems, and data encryption
-Familiarity with risk assessment tools and techniques
-Ability to travel to different cities and within the cities, close to 20-30% of travel might be included
-Should be able to work extra hours as and when required
-Strong problem-solving and communication skills
-Ability to work independently and as part of a team
+- NGFW, SASE, Cloud Security, DLP, EDR, SIEM, MDM, CASB, WAF etc..
+- Bachelors degree in a related field, such as computer science or cybersecurity
+- Experience in cybersecurity, network security, or a related field
+- Knowledge of security protocols and technologies, such as firewalls, intrusion detection systems, and data encryption
+- Familiarity with risk assessment tools and techniques
+- Ability to travel to different cities and within the cities, close to 20-30% of travel might be included
+- Should be able to work extra hours as and when required
+- Strong problem-solving and communication skills
+- Ability to work independently and as part of a team
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 6:
 
 - As a Cybersecurity Analyst you will provide consulting support to the business units in implementing secure business solutions and responding to security incidents
-You will test and aid in the implementation of appropriate detections, including documentation of incidents and playbooks
-In addition, you will assist with configuring of safeguards at appropriate points in the Avery Dennison network
-Specific areas of responsibility include, but are not limited to:
-
-Incident Response
-
-Perform incident response handling and management of forensic evidence, meeting SLAs and customer experience metrics
-Respond to security incidents with top tier endpoint and cloud technologies
-Create and maintain incident documentation and playbooks
-Manage and monitor SIEM and other tools for suspicious system activity and handle investigations using proper forensic methodologies and regulations
-Research
-Participate in vendor advisory committees, threat intel organizations, and other industry
-knowledge-sharing groups
-Research emerging attacks and perform threat hunting activities
-Security Tool Management
-
-In partnership with cybersecurity engineers, evaluate new security technologies for integration with existing systems
-
-Develop and maintain detection policies and alerts, including tuning for efficacy
-Propose new uses for existing technologies to improve data quality and reduce risk
-Perform tool evaluations and conduct proof of concepts
-Manage alert ingest processes
-Onboard new data sources into SIEM
-
-
-Minimum Qualification:
-
-Associate's degree in Computer Science, Information Technology or similar field, or equivalent experience
-1+ years of information security related experience with a focus on endpoints, incident response, network, application, or architecture
-Some familiarity with technology concepts across Windows, UNIX, database, network and web
-Experience with EDR, SIEM, and cloud technologies
-Passion and interest in security and understanding the latest threats
-Strong interest and drive to identify/create and meet customers /business partners needs plus cultural empathy and team-player attitude to operate in complex multinational organization
-Comfortable with multiple projects and able to manage a number of key tasks simultaneously
-High degree of accuracy, good time-management and priority setting skills are important.
-Ability to travel domestically and internationally up to 5%, as well as to work flexible hours
-Preferred Qualifications:
-
-Experience with regex, scripting, and/or API calls
-Relevant security industry certifications, including but not limited to CompTIA Security+, CEH, CCNP, etc.
-Experience in manufacturing or operational technology environments
+- You will test and aid in the implementation of appropriate detections, including documentation of incidents and playbooks
+- In addition, you will assist with configuring of safeguards at appropriate points in the Avery Dennison network
+- Specific areas of responsibility include, but are not limited to:
+- Perform incident response handling and management of forensic evidence, meeting SLAs and customer experience metrics
+- Respond to security incidents with top tier endpoint and cloud technologies
+- Create and maintain incident documentation and playbooks
+- Manage and monitor SIEM and other tools for suspicious system activity and handle investigations using proper forensic methodologies and regulations
+- Participate in vendor advisory committees, threat intel organizations, and other industry knowledge-sharing groups
+- Research emerging attacks and perform threat hunting activities
+- Security Tool Management
+- In partnership with cybersecurity engineers, evaluate new security technologies for integration with existing systems
+- Develop and maintain detection policies and alerts, including tuning for efficacy
+- Propose new uses for existing technologies to improve data quality and reduce risk
+- Perform tool evaluations and conduct proof of concepts
+- Manage alert ingest processes
+- Onboard new data sources into SIEM
+- Associate's degree in Computer Science, Information Technology or similar field, or equivalent experience
+- 1+ years of information security related experience with a focus on endpoints, incident response, network, application, or architecture
+- Some familiarity with technology concepts across Windows, UNIX, database, network and web
+- Experience with EDR, SIEM, and cloud technologies
+- Passion and interest in security and understanding the latest threats
+- Strong interest and drive to identify/create and meet customers /business partners needs plus cultural empathy and team-player attitude to operate in complex multinational organization
+- Comfortable with multiple projects and able to manage a number of key tasks simultaneously
+- High degree of accuracy, good time-management and priority setting skills are important.
+- Ability to travel domestically and internationally up to 5%, as well as to work flexible hours
+- Experience with regex, scripting, and/or API calls
+- Relevant security industry certifications, including but not limited to CompTIA Security+, CEH, CCNP, etc.
+- Experience in manufacturing or operational technology environments
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 7:
 
 - Planning and Implementation: Strategize, implement, monitor, and enhance security measures to safeguard our organization s data, systems, and networks.
-Round-the-Clock Availability: The role demands 24/7 availability, including a permanent night shift.
-Troubleshooting: Address security and network issues promptly and efficiently.
-Rapid Incident Response: Swiftly respond to system and network security breaches.
-Infrastructure Protection: Ensure robust security controls to safeguard our data and infrastructure.
-Change Management: Active participation in the organization s change management process.
-Vulnerability Identification: Test, detect, and report network and system vulnerabilities.
-Administrative Tasks: Handle daily administrative responsibilities and liaise with relevant departments.
-Incident Detection and Company-wide Response: Detect and respond to security incidents across the company.
-Security Analysis: Conduct log analysis and threat analysis, including security forensics and malware analysis.
-Preventative Measures: Develop and implement proactive security measures, incorporating the latest trends and research.
-Vulnerability Management: Triage and manage vulnerabilities identified through scanning and manual efforts.
-Risk Communication: Effectively communicate risks and mitigations across varied audiences.
-Security Operations Involvement: Participate in the Security Operations on-call rotation.
+- Round-the-Clock Availability: The role demands 24/7 availability, including a permanent night shift.
+- Troubleshooting: Address security and network issues promptly and efficiently.
+- Rapid Incident Response: Swiftly respond to system and network security breaches.
+- Infrastructure Protection: Ensure robust security controls to safeguard our data and infrastructure.
+- Change Management: Active participation in the organization s change management process.
+- Vulnerability Identification: Test, detect, and report network and system vulnerabilities.
+- Administrative Tasks: Handle daily administrative responsibilities and liaise with relevant departments.
+- Incident Detection and Company-wide Response: Detect and respond to security incidents across the company.
+- Security Analysis: Conduct log analysis and threat analysis, including security forensics and malware analysis.
+- Preventative Measures: Develop and implement proactive security measures, incorporating the latest trends and research.
+- Vulnerability Management: Triage and manage vulnerabilities identified through scanning and manual efforts.
+- Risk Communication: Effectively communicate risks and mitigations across varied audiences.
+- Security Operations Involvement: Participate in the Security Operations on-call rotation.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 8:
 
 -  As a Security Engineer, you will be responsible for designing, building, and protecting enterprise systems, applications, data, assets, and people against cyber threats. Your typical day will involve applying your expertise in Cyber Threat Intelligence and Cybersecurity Strategy Development to safeguard information, infrastructures, applications, and business processes against cyber threats.
-Roles & Responsibilities: - Develop and implement Cyber Threat Intelligence strategies to identify and mitigate potential cyber threats.- Design and implement Cybersecurity Strategy Development plans to safeguard information, infrastructures, applications, and business processes against cyber threats.
+- Develop and implement Cyber Threat Intelligence strategies to identify and mitigate potential cyber threats.- Design and implement Cybersecurity Strategy Development plans to safeguard information, infrastructures, applications, and business processes against cyber threats.
 - Collaborate with cross-functional teams to ensure the security of enterprise systems, applications, data, assets, and people.
 - Provide technical guidance and support to stakeholders on Cyber Threat Intelligence and Cybersecurity Strategy Development best practices.
-Professional & Technical Skills: - 
-Must To Have Skills: Expertise in Cyber Threat Intelligence and Cybersecurity Strategy Development.
+- Expertise in Cyber Threat Intelligence and Cybersecurity Strategy Development.
 - Good To Have Skills: Knowledge of security technologies such as firewalls, intrusion detection systems, and vulnerability scanners.
 - Strong understanding of security frameworks such as NIST, ISO, and CIS.- Experience in conducting security assessments and audits.
 - Excellent communication and interpersonal skills to effectively communicate technical findings to stakeholders. Additional Information: 
@@ -167,487 +153,266 @@ Must To Have Skills: Expertise in Cyber Threat Intelligence and Cybersecurity St
 Job description 9:
 
 - Have a Bachelors Degree in Computer Science or STEM Majors (Science, Technology, Engineering and Math). A minimum 5 years of professional experience.
-Have 2+ years of experience with Splunk Development
-Have 2+ years of experience with tool integrations, including APIs, REST APIS, and Syslog
-Have good understanding of Splunk infrastructure, components, and configurations.
-Have good understanding of cyber security operation workflows.
-Knowledge of OT Security concepts and architectures
-Technical Expertise:
-
-Have good development background, with a focus on secure development.
-Working knowledge of Splunk.
-Have in-depth knowledge of operating systems security configurations
-Have in-depth knowledge of network appliances
-Have experience with Windows Server and Linux OS.
-Have knowledge of other security platforms such as: SOAR, EDR, Vulnerability Management, Secure Remote Access, Passive Network Monitoring.
-Have experience with scripting such as Python, BASH, and PowerShell.
+- Have 2+ years of experience with Splunk Development
+- Have 2+ years of experience with tool integrations, including APIs, REST APIS, and Syslog
+- Have good understanding of Splunk infrastructure, components, and configurations.
+- Have good understanding of cyber security operation workflows.
+- Knowledge of OT Security concepts and architectures
+- Have good development background, with a focus on secure development.
+- Working knowledge of Splunk.
+- Have in-depth knowledge of operating systems security configurations
+- Have in-depth knowledge of network appliances
+- Have experience with Windows Server and Linux OS.
+- Have knowledge of other security platforms such as: SOAR, EDR, Vulnerability Management, Secure Remote Access, Passive Network Monitoring.
+- Have experience with scripting such as Python, BASH, and PowerShell.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 10:
 
 - The team delivers security solutions and services across a range of technology domains including cloud, web, endpoint, network and more, The cyber security team is looking for an individual with a passion for web application security and applying hands-on skills, using web inspection tools and technical expertise to investigate, test and assess web security issues, solve problems and recommend remediation measures in a modern enterprise security program worthy of Keysight.
-Candidates should have a strong interest in cyber security, and a solid grasp of web technologies such as HTTP, TLS, JavaScript, SAML2 and proxy servers. 
-An analytical approach to problems using data and critical thinking will be essential. Interest in hacking will be a plus.
-A successful candidate will become a member of the Information Security and Compliance team and will work with web developers, application owners and users to implement security controls, identify weaknesses, adopt best practices.
-
-This will include producing and analyzing vulnerability reports, as well as manually reproducing, demonstrating and explaining the findings. Collaboration on projects with the rest of the security team and with engineers from other departments will be frequent.
-
-Desired Skills and Experience :
-
-Strong understanding of DNS, TCP, HTTP and related security issues, Ability to review and understand HTML and Javascript code, Understanding of common web application protocols (XML, JSON, SAML2, WSGI), Understanding of web servers and reverse proxies, such as Apache, Nginx and Tomcat, Experience with web application security scanners, such as Net Sparker and Burp Suite, Understanding of public keys, certificates, and authentication concepts, Understanding of application security issues such as the OWASP Top 10,
+- Candidates should have a strong interest in cyber security, and a solid grasp of web technologies such as HTTP, TLS, JavaScript, SAML2 and proxy servers. 
+- An analytical approach to problems using data and critical thinking will be essential. Interest in hacking will be a plus.
+- A successful candidate will become a member of the Information Security and Compliance team and will work with web developers, application owners and users to implement security controls, identify weaknesses, adopt best practices.
+- This will include producing and analyzing vulnerability reports, as well as manually reproducing, demonstrating and explaining the findings. Collaboration on projects with the rest of the security team and with engineers from other departments will be frequent.
+- Strong understanding of DNS, TCP, HTTP and related security issues, Ability to review and understand HTML and Javascript code, Understanding of common web application protocols (XML, JSON, SAML2, WSGI), Understanding of web servers and reverse proxies, such as Apache, Nginx and Tomcat, Experience with web application security scanners, such as Net Sparker and Burp Suite, Understanding of public keys, certificates, and authentication concepts, Understanding of application security issues such as the OWASP Top 10,
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 11:
 
 - SIEM Implementation and Configuration:Deploy, configure, and manage SIEM solutions to collect and analyze security event data
-Customize SIEM rules and correlation policies to meet the organization's specific security requirements
-Monitoring and Analysis:Monitor security alerts and events generated by the SIEM system
-Conduct in-depth analysis of security incidents, identifying and mitigating potential threats
-Incident Response:Respond promptly to security incidents, providing coordination and support for incident resolution
-Document and report incidents, including the root cause analysis and remediation steps
-Threat Intelligence Integration:Integrate threat intelligence feeds into the SIEM for proactive identification of emerging threats
-Stay abreast of the latest cyber threats, vulnerabilities, and industry best practices
-Security Compliance:Ensure SIEM configurations and processes align with relevant security standards and compliance requirements
-Participate in audits and assessments to demonstrate compliance with security policies
-Collaboration:Work closely with other security professionals, IT teams, and stakeholders to enhance overall security posture
-Provide support and guidance to incident response teams during security incidents
+- Customize SIEM rules and correlation policies to meet the organization's specific security requirements
+- Monitoring and Analysis:Monitor security alerts and events generated by the SIEM system
+- Conduct in-depth analysis of security incidents, identifying and mitigating potential threats
+- Incident Response:Respond promptly to security incidents, providing coordination and support for incident resolution
+- Document and report incidents, including the root cause analysis and remediation steps
+- Threat Intelligence Integration:Integrate threat intelligence feeds into the SIEM for proactive identification of emerging threats
+- Stay abreast of the latest cyber threats, vulnerabilities, and industry best practices
+- Security Compliance:Ensure SIEM configurations and processes align with relevant security standards and compliance requirements
+- Participate in audits and assessments to demonstrate compliance with security policies
+- Collaboration:Work closely with other security professionals, IT teams, and stakeholders to enhance overall security posture
+- Provide support and guidance to incident response teams during security incidents
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 12:
 
--At least 2-4 years of hands-on experience in Cybersecurity operations.
-Advanced knowledge of understanding security frameworks implementation and delivery.
-A bachelors degree with multiple related Professional Certifications (ISA/IEC 62443, ISC2 CC & SSCP etc.,)
-Required Technical Certifications in any of the mentioned Firewall vendor Fortinet NSE4 & above/ Palo Alto PNSE or multiple relevant.
-In-depth understanding of industry security frameworks in ICS controls of OT Technologies.
-Strong understanding of industrial control systems (ICS) and operational technology (OT) environments, including knowledge of various protocols, architectures, and components used in critical infrastructure sectors.
-Knowledge of relevant industry standards and frameworks, such as NCA, NIST Cybersecurity Framework, IEC 62443, and ISA/IEC 62451, and the ability to align security initiatives with these frameworks.
-Strong experience of implementing OT security control services.
-Excel in documentations of technical proposal & design diagrams.
-Should have good experience in using network diagram making tools. (Visio would be added advantage)
+- At least 2-4 years of hands-on experience in Cybersecurity operations.
+- Advanced knowledge of understanding security frameworks implementation and delivery.
+- A bachelors degree with multiple related Professional Certifications (ISA/IEC 62443, ISC2 CC & SSCP etc.,)
+- Required Technical Certifications in any of the mentioned Firewall vendor Fortinet NSE4 & above/ Palo Alto PNSE or multiple relevant.
+- In-depth understanding of industry security frameworks in ICS controls of OT Technologies.
+- Strong understanding of industrial control systems (ICS) and operational technology (OT) environments, including knowledge of various protocols, architectures, and components used in critical infrastructure sectors.
+- Knowledge of relevant industry standards and frameworks, such as NCA, NIST Cybersecurity Framework, IEC 62443, and ISA/IEC 62451, and the ability to align security initiatives with these frameworks.
+- Strong experience of implementing OT security control services.
+- Excel in documentations of technical proposal & design diagrams.
+- Should have good experience in using network diagram making tools. (Visio would be added advantage)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 13:
 
-- The Application Security Engineer in this role will be responsible for ensuring the security
-
-and integrity of our applications and systems by implementing robust security measures,
-
-conducting security assessments, and collaborating with cross-functional teams. This role
-
-requires a strong technical background, deep knowledge of application security principles,
-
-and the ability to identify and mitigate potential vulnerabilities.
-
-Key Responsibilities
-
-Perform Security Assessments: Conduct thorough security assessments of applications,
-
-systems, and software components to identify vulnerabilities, security risks, and potential
-
-weaknesses. Use industry-standard tools and methodologies to assess application security
-
-posture.
-
-Security Code Review: Conduct manual and/or automated code reviews to identify
-
-application security flaws and vulnerabilities. Provide actionable recommendations and work
-
-closely with development teams to implement necessary security improvements.
-
-Secure Development Lifecycle (SDL): Collaborate with development teams to integrate
-
-security practices & and privacy aspects into the software development lifecycle (security &
-
-and privacy by design). Guide and assist in the adoption of secure coding practices, threat
-
-modeling, and security testing methodologies.
-
-Vulnerability Management: Manage the vulnerability identification and remediation
-
-process. Track, prioritize, and communicate vulnerabilities to development teams and assist
-
-in the implementation of appropriate mitigation strategies.
-
-Security Testing: Conduct application security testing, including penetration testing,
-
-vulnerability scanning, and security code analysis. Identify and validate security risks,
-
-document findings, and collaborate with teams to resolve identified issues.
-
-Security Standards and Policies: Stay updated with the latest application security
-
-standards, best practices, and regulatory requirements. Develop and maintain security
-
-policies, procedures, and guidelines related to application security.
-
-Incident Response: Participate in incident response activities, investigating and
-
-addressing security incidents related to applications or systems. Collaborate with the
-
-incident response team to identify root causes and implement preventive measures.
-
-Security Awareness and Training: Promote security awareness by providing training and
-
-guidance to development teams and stakeholders. Raise awareness about common security
-
-threats, secure coding practices, and emerging trends in application security.
-
-Industry Best Practices: Engage in professional development activities, including
-
-attending security conferences, participating in industry forums, staying informed about the
-
-latest trends and advancements in application security, and promoting best practices within
-
-the team.
-
-Documentation and Reporting: Provide periodic updates and reporting on information security issues.Maintain up to date security policies and procedure documentation.Maintain and regularly update the
-
-compliance tracker with relevant information.Ensure timely and accurate reporting of
-
-security risks and periodic reports to management and relevant stakeholders / regulators.Role & responsibilities
+- The Application Security Engineer in this role will be responsible for ensuring the security and integrity of our applications and systems by implementing robust security measures, conducting security assessments, and collaborating with cross-functional teams.
+- This role requires a strong technical background, deep knowledge of application security principles,and the ability to identify and mitigate potential vulnerabilities.
+- Perform Security Assessments: Conduct thorough security assessments of applications, systems, and software components to identify vulnerabilities, security risks, and potentialweaknesses.
+- Use industry-standard tools and methodologies to assess application security posture.
+- Security Code Review: Conduct manual and/or automated code reviews to identify application security flaws and vulnerabilities.
+- Provide actionable recommendations and work closely with development teams to implement necessary security improvements.
+- Secure Development Lifecycle (SDL): Collaborate with development teams to integrate security practices & and privacy aspects into the software development lifecycle (security & and privacy by design).
+- Guide and assist in the adoption of secure coding practices, threat modeling, and security testing methodologies.
+- Manage the vulnerability identification and remediation process.
+- Track, prioritize, and communicate vulnerabilities to development teams and assist in the implementation of appropriate mitigation strategies.
+- Security Testing: Conduct application security testing, including penetration testing, vulnerability scanning, and security code analysis. Identify and validate security risks, document findings, and collaborate with teams to resolve identified issues.
+- Security Standards and Policies: Stay updated with the latest application security standards, best practices, and regulatory requirements. Develop and maintain security policies, procedures, and guidelines related to application security.
+- Incident Response: Participate in incident response activities, investigating andaddressing security incidents related to applications or systems. Collaborate with theincident response team to identify root causes and implement preventive measures.
+- Security Awareness and Training: Promote security awareness by providing training andguidance to development teams and stakeholders. Raise awareness about common securitythreats, secure coding practices, and emerging trends in application security.
+- Industry Best Practices: Engage in professional development activities, includingattending security conferences, participating in industry forums, staying informed about thelatest trends and advancements in application security, and promoting best practices within the team
+- Documentation and Reporting: Provide periodic updates and reporting on information security issues.Maintain up to date security policies and procedure documentation.Maintain and regularly update thecompliance tracker with relevant information.Ensure timely and accurate reporting ofsecurity risks and periodic reports to management and relevant stakeholders / regulators.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 14:
 
--> Bachelor's degree in Computer Science, Information Technology, or a related field.
-
-> 3+ years of experience in cyber security, with a focus on penetration testing and vulnerability assessment.
-
-> Strong understanding of information security and network security principles.
-
-> Experience with a variety of cyber security tools and technologies, including firewalls, antivirus software, and intrusion detection systems
-
-> Ability to work independently and take on complex tasks with little supervision.
-
-> Strong communication and collaboration skills.
-
-> Certified Ethical Hacker (CEH) or similar certification is a plus.
-
-Technical Skills:
-
-Network Security:
-
-Understanding of network protocols and architecture.
-
-Firewalls, Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS), Virtual Private Networks (VPNs), and Network Access Control (NAC).
-
-Vulnerability Assessment and Penetration Testing (VAPT):
-
-Knowledge of common vulnerabilities and attack vectors.
-
-Experience with penetration testing tools like Metasploit, Burp Suite, OWASP ZAP, Nessus, etc.
-
-Familiarity with various VAPT methodologies and frameworks.
-
-Application Security:
-
-Understanding of application architecture and development frameworks.
-
-Knowledge of web application security concepts, such as OWASP Top 10 vulnerabilities.
-
-Experience in web application testing using tools like Burp Suite, OWASP ZAP, etc.
-
-Secure coding practices.
-
-API Testing:
-
-Understanding of API protocols (REST, SOAP).
-
-Knowledge of API security vulnerabilities and testing techniques.
-
-Familiarity with tools like Postman, Fiddler, etc., for API testing.
-
-Database Security (SQLi):
-
-Understanding of SQL injection (SQLi) vulnerabilities and prevention techniques.
-
-Knowledge of database management systems (DBMS) and their security configurations.
-
-Tools and Utilities:
-
-Proficiency in tools like Nmap for network scanning and enumeration.
-
-Familiarity with server vulnerability scanning tools like OpenVAS, Nessus, etc.
-
-Understanding of password cracking and brute force tools.
-
-Server and Web Security:
-
-Knowledge of server operating systems (e.g., Linux, Windows) and their security configurations.
-
-Familiarity with web server configurations (e.g., Apache, Nginx) and security best practices.
-
-Data Extraction and Analysis:
-
-Experience with data extraction tools and techniques.
-
-Knowledge of data analysis and visualization tools (e.g., Python, R, Tableau).
-
-Soft Skills:
-
-Communication:
-
-Strong written and verbal communication skills to effectively convey findings and recommendations to stakeholders.
-
-Problem-Solving:
-
-Analytical thinking and problem-solving abilities to identify and mitigate security risks.
-
-Time Management:
-
-Efficiently manage time and prioritize tasks to meet deadlines and project goals.
-
-Continuous Learning:
-
-Stay updated with the latest cybersecurity trends, tools, and techniques through self-study, certifications, and industry conferences.
-
-Teamwork and Collaboration:
-
-Ability to work effectively in a team and collaborate with others in a diverse cybersecurity environment.
-
-Ethical Mindset:
-
-Strong ethics and integrity, understanding the importance of responsible and legal hacking.
-
-Certifications:
-
-Pursuing relevant certifications is highly recommended to validate your skills and knowledge:
-
-Certified Ethical Hacker (CEH)
-
-Offensive Security Certified Professional (OSCP)
-
-Certified Information Systems Security Professional (CISSP)
-
-GIAC Web Application Penetration Tester (GWAPT)
-
-CompTIA Security+
-
-Cisco Certified Network Associate (CCNA)
-
-etc.
-
-Continuous learning, hands-on experience, and staying up-to-date with the rapidly evolving cybersecurity landscape are key to becoming an effective cybersecurity specialist with expertise in VAPT, network security, security audits, application testing, API testing, SQLi, brute force, Nmap, server vulnerabilities,
+- Bachelor's degree in Computer Science, Information Technology, or a related field.
+- 3+ years of experience in cyber security, with a focus on penetration testing and vulnerability assessment.
+- Strong understanding of information security and network security principles.
+- Experience with a variety of cyber security tools and technologies, including firewalls, antivirus software, and intrusion detection systems
+- Ability to work independently and take on complex tasks with little supervision.
+- Strong communication and collaboration skills.
+- Certified Ethical Hacker (CEH) or similar certification is a plus.
+- Understanding of network protocols and architecture.
+- Firewalls, Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS), Virtual Private Networks (VPNs), and Network Access Control (NAC).
+- Vulnerability Assessment and Penetration Testing (VAPT):
+- Knowledge of common vulnerabilities and attack vectors.
+- Experience with penetration testing tools like Metasploit, Burp Suite, OWASP ZAP, Nessus, etc.
+- Familiarity with various VAPT methodologies and frameworks.
+- Application Security:
+- Understanding of application architecture and development frameworks.
+- Knowledge of web application security concepts, such as OWASP Top 10 vulnerabilities.
+- Experience in web application testing using tools like Burp Suite, OWASP ZAP, etc.
+- Secure coding practices.
+- API Testing:
+- Understanding of API protocols (REST, SOAP).
+- Knowledge of API security vulnerabilities and testing techniques.
+- Familiarity with tools like Postman, Fiddler, etc., for API testing.
+- Database Security (SQLi):
+- Understanding of SQL injection (SQLi) vulnerabilities and prevention techniques.
+- Knowledge of database management systems (DBMS) and their security configurations.
+- Tools and Utilities:
+- Proficiency in tools like Nmap for network scanning and enumeration.
+- Familiarity with server vulnerability scanning tools like OpenVAS, Nessus, etc.
+- Understanding of password cracking and brute force tools.
+- Server and Web Security:
+- Knowledge of server operating systems (e.g., Linux, Windows) and their security configurations.
+- Familiarity with web server configurations (e.g., Apache, Nginx) and security best practices.
+- Data Extraction and Analysis:
+- Experience with data extraction tools and techniques.
+- Knowledge of data analysis and visualization tools (e.g., Python, R, Tableau).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 15:
 
 - Deploy and maintain vulnerability management technology (Nessus Pro) used to identify and mitigate vulnerabilities and security issues.
-Validate and triage identified vulnerabilities.
-Identifying, assessing, and managing threats, vulnerabilities, and associated risks
-Daily administrative tasks, reporting, and communication with the relevant departments in the organization.
-Contribute to developing and operating the vulnerability life cycle processes, detection, analysis, prioritization, and reporting.
-Vulnerability/exposure remediation
-Determine false positives.
-Maintain knowledge of current industry security standards
-Preparation of quarterly reports to RBI (all false positives)
-Engage with IT constantly to address infrastructure-related vulnerabilities.
-Collaborate with business units to address vulnerabilities in their assets.
-Communicate vulnerability findings, risks, and recommended mitigation/ remediation steps to non-technical stakeholders, as well in an understandable manner.
-Should be able to deliver with minimum supervision.
-Should be able to work under pressure in a fast-paced environment.
+- Validate and triage identified vulnerabilities.
+- Identifying, assessing, and managing threats, vulnerabilities, and associated risks
+- Daily administrative tasks, reporting, and communication with the relevant departments in the organization.
+- Contribute to developing and operating the vulnerability life cycle processes, detection, analysis, prioritization, and reporting.
+- Vulnerability/exposure remediation
+- Determine false positives.
+- Maintain knowledge of current industry security standards
+- Preparation of quarterly reports to RBI (all false positives)
+- Engage with IT constantly to address infrastructure-related vulnerabilities.
+- Collaborate with business units to address vulnerabilities in their assets.
+- Communicate vulnerability findings, risks, and recommended mitigation/ remediation steps to non-technical stakeholders, as well in an understandable manner.
+- Should be able to deliver with minimum supervision.
+- Should be able to work under pressure in a fast-paced environment.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 16:
 
 - In depth understanding of operating systems, network/system architecture, and IT ( Information Technologies ) or/and OT ( Operation Technologies ) architecture design
-Travel to the clients site as required
-Collaborate with Engineering teams to implement new OT Cyber Security technologies
-Experience working in security operations environments, experience with key security operations technologies such as SIEM and log aggregation (e.g., ArcSight, Splunk ES, IBM QRadar etc.)
-Experience with operational technologies such as Programmable Logic Controllers (PLCs), Supervisory Control and Data Acquisition (SCADA) software, and Distributed Control Systems (DCS)
-Strong understanding of cybersecurity frameworks for ICS/OT environments (ISA-99/IEC 62443, NIST SP 800-82, CIS, etc.)
-Responsible for the security attribute of quality for the solution
-Responsible to meet security requirement, known threats have been mitigates, known vulnerabilities, security level is maintained
-Understanding of IT and OT network communication protocols (including TCP/IP, UDP, DNP3, Modbus, OPC).
-Recommend necessary corrective and preventive actions to reduce the risk
-Know how to run Nessus and vulnerability scanners and provide the outcome.
-Know how to use the CVSS scoring tool for security bugs and provide the outcome.
-Track all Cyber security issues to closure
-Excellent written and oral communication skills
-Act as Subject Matter Expert (SME) on OT cyber security related issues
+- Travel to the clients site as required
+- Collaborate with Engineering teams to implement new OT Cyber Security technologies
+- Experience working in security operations environments, experience with key security operations technologies such as SIEM and log aggregation (e.g., ArcSight, Splunk ES, IBM QRadar etc.)
+- Experience with operational technologies such as Programmable Logic Controllers (PLCs), Supervisory Control and Data Acquisition (SCADA) software, and Distributed Control Systems (DCS)
+- Strong understanding of cybersecurity frameworks for ICS/OT environments (ISA-99/IEC 62443, NIST SP 800-82, CIS, etc.)
+- Responsible for the security attribute of quality for the solution
+- Responsible to meet security requirement, known threats have been mitigates, known vulnerabilities, security level is maintained
+- Understanding of IT and OT network communication protocols (including TCP/IP, UDP, DNP3, Modbus, OPC).
+- Recommend necessary corrective and preventive actions to reduce the risk
+- Know how to run Nessus and vulnerability scanners and provide the outcome.
+- Know how to use the CVSS scoring tool for security bugs and provide the outcome.
+- Track all Cyber security issues to closure
+- Excellent written and oral communication skills
+- Act as Subject Matter Expert (SME) on OT cyber security related issues
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 17:
 
 - Ensuring ISMS policies and procedures are up-to-date.
-Ensuring ISMS periodic internal audits are conducted as planned and remediation actions are taken as per the agreed response time.
-Ensuring relevant information repositories and sources are updated for effective coverage of security control implementation.
-Conduct annual ISMS policy and procedure reviews.
-Security awareness trainings are conducted to cover the employees of Secure
+- Ensuring ISMS periodic internal audits are conducted as planned and remediation actions are taken as per the agreed response time.
+- Ensuring relevant information repositories and sources are updated for effective coverage of security control implementation.
+- Conduct annual ISMS policy and procedure reviews.
+- Security awareness trainings are conducted to cover the employees of Secure
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 18:
 
-- The Application Security Engineer in this role will be responsible for ensuring the security
-
-and integrity of our applications and systems by implementing robust security measures,
-
-conducting security assessments, and collaborating with cross-functional teams. This role
-
-requires a strong technical background, deep knowledge of application security principles,
-
-and the ability to identify and mitigate potential vulnerabilities.
-
-Key Responsibilities
-
-Perform Security Assessments: Conduct thorough security assessments of applications,
-
-systems, and software components to identify vulnerabilities, security risks, and potential
-
-weaknesses. Use industry-standard tools and methodologies to assess application security
-
-posture.
-
-Security Code Review: Conduct manual and/or automated code reviews to identify
-
-application security flaws and vulnerabilities. Provide actionable recommendations and work
-
-closely with development teams to implement necessary security improvements.
-
-Secure Development Lifecycle (SDL): Collaborate with development teams to integrate
-
-security practices & and privacy aspects into the software development lifecycle (security &
-
-and privacy by design). Guide and assist in the adoption of secure coding practices, threat
-
-modeling, and security testing methodologies.
-
-Vulnerability Management: Manage the vulnerability identification and remediation
-
-process. Track, prioritize, and communicate vulnerabilities to development teams and assist
-
-in the implementation of appropriate mitigation strategies.
-
-Security Testing: Conduct application security testing, including penetration testing,
-
-vulnerability scanning, and security code analysis. Identify and validate security risks,
-
-document findings, and collaborate with teams to resolve identified issues.
-
-Security Standards and Policies: Stay updated with the latest application security
-
-standards, best practices, and regulatory requirements. Develop and maintain security
-
-policies, procedures, and guidelines related to application security.
-
-Incident Response: Participate in incident response activities, investigating and
-
-addressing security incidents related to applications or systems. Collaborate with the
-
-incident response team to identify root causes and implement preventive measures.
-
-Security Awareness and Training: Promote security awareness by providing training and
-
-guidance to development teams and stakeholders. Raise awareness about common security
-
-threats, secure coding practices, and emerging trends in application security.
-
-Industry Best Practices: Engage in professional development activities, including
-
-attending security conferences, participating in industry forums, staying informed about the
-
-latest trends and advancements in application security, and promoting best practices within
-
-the team.
-
-Documentation and Reporting: Provide periodic updates and reporting on information security issues.Maintain up to date security policies and procedure documentation.Maintain and regularly update the
-
-compliance tracker with relevant information.Ensure timely and accurate reporting of
-
-security risks and periodic reports to management and relevant stakeholders / regulators.Role & responsibilities
+- The Application Security Engineer in this role will be responsible for ensuring the security  and integrity of our applications and systems by implementing robust security measures,conducting security assessments, and collaborating with cross-functional teams. This role requires a strong technical background, deep knowledge of application security principles,and the ability to identify and mitigate potential vulnerabilities.
+- Perform Security Assessments: Conduct thorough security assessments of applications, systems, and software components to identify vulnerabilities, security risks, and potentialzweaknesses. Use industry-standard tools and methodologies to assess application security posture.
+- Security Code Review: Conduct manual and/or automated code reviews to identify application security flaws and vulnerabilities. Provide actionable recommendations and workclosely with development teams to implement necessary security improvements.Secure Development Lifecycle (SDL): Collaborate with development teams to integrate
+- security practices & and privacy aspects into the software development lifecycle (security &
+- and privacy by design). Guide and assist in the adoption of secure coding practices, threat
+- modeling, and security testing methodologies.
+- Vulnerability Management: Manage the vulnerability identification and remediation
+- process. Track, prioritize, and communicate vulnerabilities to development teams and assist
+- in the implementation of appropriate mitigation strategies.
+- Security Testing: Conduct application security testing, including penetration testing,
+- vulnerability scanning, and security code analysis. Identify and validate security risks,document findings, and collaborate with teams to resolve identified issues.
+- Seurity Standards and Policies: Stay updated with the latest application security
+- standards, best practices, and regulatory requirements. Develop and maintain security
+- policies, procedures, and guidelines related to application security.
+- Incident Response: Participate in incident response activities, investigating and
+- addressing security incidents related to applications or systems. Collaborate with the
+- incident response team to identify root causes and implement preventive measures.
+- Security Awareness and Training: Promote security awareness by providing training and
+- guidance to development teams and stakeholders. Raise awareness about common security
+- threats, secure coding practices, and emerging trends in application security.Industry Best Practices: Engage in professional development activities, includingattending security conferences, participating in industry forums, staying informed about thelatest trends and advancements in application security, and promoting best practices withinthe team.
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 19:
 
 - Governance - security governance & support. Compliance and Risk Management.
-Vulnerability management - vulnerability (infra and app) scans and remediation plans
-SMP(Security Management Plan) - preparing, reviewing and managing
-Authorization management - should have managed the accounts & controls in Infra scope
-Security patch management - end to end coordination and implementation
-Security product management - Antivirus Management, like TrendMicro
-Security incident management - Managing the end-to-end security incident lifecycle with corrective measures
-Audit support - support auditors mandate on the security system and artifacts
-Mitigation - thinking analytically and executing efficiently. Analyze and optimize orchestration and automation between security tools
-Vendor Management, Collaboration, Facilitation - Excellent customer-facing skills and significant experience building strong client relationships
-Communication Skills - Communicate security and technology needs effectively
-Certification : CISSP / CISM any one certification is must
+- Vulnerability management - vulnerability (infra and app) scans and remediation plans
+- SMP(Security Management Plan) - preparing, reviewing and managing
+- Authorization management - should have managed the accounts & controls in Infra scope
+- Security patch management - end to end coordination and implementation
+- Security product management - Antivirus Management, like TrendMicro
+- Security incident management - Managing the end-to-end security incident lifecycle with corrective measures
+- Audit support - support auditors mandate on the security system and artifacts
+- Mitigation - thinking analytically and executing efficiently. Analyze and optimize orchestration and automation between security tools
+- Vendor Management, Collaboration, Facilitation - Excellent customer-facing skills and significant experience building strong client relationships
+- Communication Skills - Communicate security and technology needs effectively
+- Certification : CISSP / CISM any one certification is must
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 20:
 
 - Team Management:
-Lead and manage a team of cybersecurity professionals.
-Define roles and responsibilities within the team.
-Provide guidance, mentorship, and training to team members.
-Operations Oversight:
-Oversee the daily operations of the cybersecurity team.
-Monitor and analyze security alerts and incidents.
-Ensure timely and effective response to security incidents.
-Security Monitoring:
-Implement and maintain security monitoring tools.
-Monitor network and system activities for security events.
-Analyze security logs and reports to identify and respond to potential threats.
-Incident Response:
-Develop and implement an incident response plan.
-Coordinate with other departments during security incidents.
-Conduct post-incident analysis and implement improvements.
-Security Policies and Procedures:
-Develop and enforce cybersecurity policies and procedures.
-Ensure compliance with industry regulations and standards.
-Regularly update security policies to address emerging threats.
-Risk Management:
-Identify and assess cybersecurity risks.
-Develop strategies to mitigate and manage risks.
-Work with other departments to ensure a comprehensive risk management approach.
-Security Awareness:
-Promote cybersecurity awareness within the organization.
-Conduct training sessions for employees on security best practices.
-Foster a culture of security throughout the organization.
-Collaboration:
-Collaborate with IT teams, compliance officers, and other stakeholders.
-Stay informed about the latest cybersecurity trends and threats.
-Work with external partners and vendors as needed.
-Reporting:
-Prepare and present regular reports on the state of cybersecurity to executive management.
-Provide recommendations for improvements and enhancements.
-Continuous Improvement:
-Evaluate and enhance the effectiveness of security controls.
-Stay current with industry best practices and emerging technologies.
-Implement continuous improvement initiatives based on lessons learned.
+- Lead and manage a team of cybersecurity professionals.
+- Define roles and responsibilities within the team.
+- Provide guidance, mentorship, and training to team members.
+- Operations Oversight:
+- Oversee the daily operations of the cybersecurity team.
+- Monitor and analyze security alerts and incidents.
+- Ensure timely and effective response to security incidents.
+- Security Monitoring:
+- Implement and maintain security monitoring tools.
+- Monitor network and system activities for security events.
+- Analyze security logs and reports to identify and respond to potential threats.
+- Incident Response:
+- Develop and implement an incident response plan.
+- Coordinate with other departments during security incidents.
+- Conduct post-incident analysis and implement improvements.
+- Security Policies and Procedures:
+- Develop and enforce cybersecurity policies and procedures.
+- Ensure compliance with industry regulations and standards.
+- Regularly update security policies to address emerging threats.
+- Risk Management:
+- Identify and assess cybersecurity risks.
+- Develop strategies to mitigate and manage risks.
+- Work with other departments to ensure a comprehensive risk management approach.
+- Security Awareness:
+- Promote cybersecurity awareness within the organization.
+- Conduct training sessions for employees on security best practices.
+- Foster a culture of security throughout the organization.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 21:
 
 -B.E / B.Tech/ M.CA/M.Sc (IT/CSE) with 4-5 years of experience in cyber security domain
-• Good knowledge of networking / system administration, security administration & testing or related fields. Strong skills in Penetration Testing & Vulnerability assessment.
-• Knowledge of TCP/IP, Networking technologies, IP internet working, LAN Switching, IP Routing, Wireless, WAN protocols
-• Understanding of Data Center architectures and the three pillars of data center infrastructure: network, storage and servers is preffered
-• Working Knowledge of Perl, Python, Bash, or C language
-• Configuration and Security experience of Operating Systems (Windows, HP-UX, Linux, Solaris, AIX, etc.)
-• Good Knowledge of a few of the major networking and security solutions like Next Gen Firewalls, UTMs, IPSs, AFW, VPN, DDoS, Antivirus, Patch Management, DLP, IAM, SIEM, SOAR, SOC management tools, switches, routers, etc.
-• Good understanding of best practices in cyber security and prevailing security standards like NISPG guidelines, NSCS prescribed security audit guidelines, CERT-In guidelines, Open Web Application Security Project (OWASP), Open Source Security Testing Methodology Manual (OSSTMM), Secure SDLC standards / frameworks, the
-Penetration Testing Execution Standard (PTES), Information Systems Security
-Assessment Framework (ISSAF), and NIST SP800-115
-• Familiar with security testing techniques such as threat modelling, network discovery, port and service identification, vulnerability scanning, network sniffing, penetration testing, configuration reviews, firewall rule reviews, social engineering, wireless penetration testing, fuzzing, and password cracking and can perform these techniques from a variety of adversarial perspectives (white-, grey-, black-box)
-• Experience of discovering, utilizing, and writing exploits for such vulnerabilities as buffer and stack overflows
-• Familiar with the logistics of security testing such as acquiring authorization for testing, reporting, risk analysis of findings, data handling, and legal considerations
-• Knowhow of functioning of commercial network and application Security tools (Nessus, Nexpose, Qualys, AppDetective, AppScan, etc.) and open source and free tools experience (Kali Linux suite, Metasploit, nmap, airsnort, Wireshark, Burp Suite, Paros, etc.)
-• Security testing certifications in one or more of the following: Certified Ethical
-Hacker (CEH); GIAC Certified Penetration Tester (GPEN); Offensive Security Certified Professional (OSCP); or equivalent development or testing certification (ECSA, CEPT, CPTE, CPTS, etc)
-• Good communication skills, technical knowledge and documentation & report writing ability
-• High Integrity and confidentiality. 
+- Good knowledge of networking / system administration, security administration & testing or related fields. Strong skills in Penetration Testing & Vulnerability assessment.
+- Knowledge of TCP/IP, Networking technologies, IP internet working, LAN Switching, IP Routing, Wireless, WAN protocols
+- Understanding of Data Center architectures and the three pillars of data center infrastructure: network, storage and servers is preffered
+- Working Knowledge of Perl, Python, Bash, or C language
+- Configuration and Security experience of Operating Systems (Windows, HP-UX, Linux, Solaris, AIX, etc.)
+- Good Knowledge of a few of the major networking and security solutions like Next Gen Firewalls, UTMs, IPSs, AFW, VPN, DDoS, Antivirus, Patch Management, DLP, IAM, SIEM, SOAR, SOC management tools, switches, routers, etc.
+- Good understanding of best practices in cyber security and prevailing security standards like NISPG guidelines, NSCS prescribed security audit guidelines, CERT-In guidelines, Open Web Application Security Project (OWASP), Open Source Security Testing Methodology Manual (OSSTMM), Secure SDLC standards / frameworks, the
+- Penetration Testing Execution Standard (PTES), Information Systems Security
+- Assessment Framework (ISSAF), and NIST SP800-115
+- Familiar with security testing techniques such as threat modelling, network discovery, port and service identification, vulnerability scanning, network sniffing, penetration testing, configuration reviews, firewall rule reviews, social engineering, wireless penetration testing, fuzzing, and password cracking and can perform these techniques from a variety of adversarial perspectives (white-, grey-, black-box)
+- Experience of discovering, utilizing, and writing exploits for such vulnerabilities as buffer and stack overflows
+- Familiar with the logistics of security testing such as acquiring authorization for testing, reporting, risk analysis of findings, data handling, and legal considerations
+- Knowhow of functioning of commercial network and application Security tools (Nessus, Nexpose, Qualys, AppDetective, AppScan, etc.) and open source and free tools experience (Kali Linux suite, Metasploit, nmap, airsnort, Wireshark, Burp Suite, Paros, etc.)
+- Security testing certifications in one or more of the following: Certified Ethical Hacker (CEH); GIAC Certified Penetration Tester (GPEN); Offensive Security Certified Professional (OSCP); or equivalent development or testing certification (ECSA, CEPT, CPTE, CPTS, etc)
+- Good communication skills, technical knowledge and documentation & report writing ability High Integrity and confidentiality. 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -655,166 +420,37 @@ Hacker (CEH); GIAC Certified Penetration Tester (GPEN); Offensive Security Certi
 Job description 22:
 
 -Experience in ISO 27001, PCI DSS, NIST, SANS, ISA 99, Cloud Security Alliance, UAE IA Standard, and Dubai Government ISR.
-Proficient in:
-Development of cyber security strategies
-Performing security risk assessments
-Performing maturity assessments
-Development of security policies and procedures
-Implementation of information security management system
-Performing security awareness
-Performing security audits
-Understanding of technologies around following areas will be a plus- SOC, GRC, IAM, DevSecOps, Data Security, OT security and cloud security
+- Proficient in:
+- Development of cyber security strategies
+- Performing security risk assessments
+- Performing maturity assessments
+- Development of security policies and procedures
+- Implementation of information security management system
+- Performing security awareness
+- Performing security audits
+- Understanding of technologies around following areas will be a plus- SOC, GRC, IAM, DevSecOps, Data Security, OT security and cloud security
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 23:
 
 - Ensure that customer environments are always protected against cyber-attacks
-Triage and investigate alarms generated by SIEM tools, endpoint protection tools, network anomaly detection tools, etc. by performing in-depth analysis
-Undertake daily threat hunting investigations and campaigns
-Escalate relevant threats to customers and providing advice based on these threats
-Detect anomalies and attack patterns along the entire cyber-kill chain as described by MITRE ATT&CK
-Support our customers during a security incident and ensure effective defense against attacks
-Continuously develop improvements and detection methods to optimize detections
-Report monthly on the status of customer environments
+- Triage and investigate alarms generated by SIEM tools, endpoint protection tools, network anomaly detection tools, etc. by performing in-depth analysis
+- Undertake daily threat hunting investigations and campaigns
+- Escalate relevant threats to customers and providing advice based on these threats
+- Detect anomalies and attack patterns along the entire cyber-kill chain as described by MITRE ATT&CK
+- Support our customers during a security incident and ensure effective defense against attacks
+- Continuously develop improvements and detection methods to optimize detections
+- Report monthly on the status of customer environments
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Job description 24:
 
 - SIEM (Qradar knowledge is a plus) : security alerts management, device integration, configuration and administration of security use cases
-SOAR (The Hive knowledge is a plus): manage security incident
-EDR (MS Defender knowledge is a plus)
-Threat Intelligence (Threat Quotient knowledge is a plus)
-Malware investigation and reporting
-Forensic investigation of incidents and SPAM / Phishing email investigations
+- SOAR (The Hive knowledge is a plus): manage security incident
+- EDR (MS Defender knowledge is a plus)
+- Threat Intelligence (Threat Quotient knowledge is a plus)
+- Malware investigation and reporting
+- Forensic investigation of incidents and SPAM / Phishing email investigations
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-Job description 25:
-
-- Manage the backend using Django
-- Create and maintain the APIs using Django REST Framework
-- Work with development teams and product managers to ideate software solutions
-- Manage the deployment of applications using AWS
-- Manage the CI/CD pipelines for various applications
-- Writing python scripts to perform cron jobs
-- Report and work on production bugs submitted by users and the QA team
-- Experience with Django, Django REST Framework and AWS
-- 6-12 months prior internship/job experience is a big plus
-- Available for the work from home internship for a duration of 3-6 months
-- Have relevant skills and interests
-- A knack for problem solving
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job description 26:
-
-- We are looking for a Python developer with experience in building high performing, scalable mobile applications. Your primary focus will be the development of all server- side logic, ensuring high performance and responsiveness to requests from the front- end. You will also be responsible for integrating the front- end elements built by your co- workers into the application; therefore, a basic understanding of front- end technologies is necessary as well.
-- Write reusable, testable and efficient code
-- Integration of user- facing elements developed by front- end developers with server side logic
-- Integration of data storage solutions (may include databases, key- value stores, blob stores, etc.)
-- Build reusable code and libraries for future use
-- Skills we are looking for (Python):
-- Knowledge of Python preferably with Django framework
-- Familiarity with some ORM (Object Relational Mapper) libraries
-- Able to integrate multiple data sources and databases into one system
-- Understanding of the threading limitations of Python, and multi- process architecture
-- Good understanding of server- side templating languages {{such as Jinja 2, Mako, etc depending on your technology stack}}
-- Basic understanding of front- end android technologies
-- Understanding of accessibility and security compliance {{depending on the specific project}}
-- Knowledge of user authentication and authorization between multiple systems, servers, and environments
-- Skills Must have REST ful APIs Python Django
-- Optional NodeJs JavaScript
-- 1- 3 years experience in mobile apps
-- Major brownie points for prior experience on video/ gaming and preschool kids apps
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job description 27:
-
-- We’re looking for a passionate Software Engineer to design, develop and install software solutions. Ideally, the candidate should be able to build high
-- quality, innovative and fully performing software in compliance with coding standards and technical design.
-- Web application development and their integration with frontend services.
-- Exceptional attention to detail.
-- Ability to work on new projects and develop as per the functional team requirements
-- Comply with agile based software development methodology
-- Build Web Application with prescribed coding standards and industry best practices.
-- Good time management abilities.
-- Strong decision making skills.
-- Collaborating with front
-- end developers on the integration of elements.
-- Developing high
-- performance applications by writing testable, reusable, and efficient code.
-- Ability to implement effective security protocols, data protection measures, and storage solutions.
-- Running diagnostic tests, repairing defects, and providing technical support. Requirements Mandatory Skills:
-- Atleast 1+ years of Strong experience  in Node.JS and its core modules
-- Strong in MVC Framework like Express.JS
-- Knowledge on architectural patterns MVC, HMVC, and Clean Architecture will be an added advantage
-- Understanding and experience in using data storage technologies like relational databases e.g. MySQL, Postgresql and nosql databases e.g. MongoDB, DynamoDB.
-- Working knowledge of GIT version control and repository clients like github, gitlab, bitbucket.
-- Basic experience in AWS is a required.
-- Knowledge in WebPack and Mocha, Chai (Unit Test Framework) is a plus.
-- Experience in other Backend Technologies like Go and Python is a plus
-- Experience in GraphQL API Implementation is a plus
-- Knowledge in API Document Tool like Swagger, Postman is a plus Knowledge
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job description 28:
-
--  Minimum 6 month of experience creating dynamic, database driven customised web apps using Laravel/PHP.
-- Proficient in core PHP, MySQL, jQuery & vue.js, Ajax, JavaScript
-- Sound knowledge of MVC framework, PHP, Laravel, APIs and web services
-- B.Tech/BCA/MCA/MS IT or Equivalant
-- Build efficient custom web and ecommerce applications using APIs
-- Strong interpersonal and analytical skills.
-- work on challenging projects
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job description 29:
-
-- Bachelors in Engineering (B.E./ B. Tech Degree) with 6+ years of relevant experience
-- Proficient in DERN or MEVN stack, MySQL, NoSQL, HTML/CSS/Service based architecture
-- Proficient in JavaScript/TypeScript with hands on experience in Node.js frameworks like Express.Js, Nest.js and frontend technologies like Vue.js, Next.js, React.js, Angular.js
-- Proficiency in Object-Oriented Programming (OOPs) concepts and project implementation
-- Proficiency of building CMS based service-oriented integrations based on REST/JSON model
--  Experience in building REST APIs, front-end JS testing tools and UI testing techniques
-- Experience working with testing tools like cypress
-- Experience working with AWS Lambda and other AWS serverless services
-- Proficiency in Git and SVN
-- Basic knowledge of mocha chai testing framework.
-- Hands-on experience with Serverless Framework and serverless architecture.
-- Knowledge of SQL/NoSQL data stores and caching solutions such as ElasticCache/API Gateway cache and CDNs.
-- Experience working in an Agile environment to translate user stories into technical tasks and estimate effort effectively
-- Experience mentoring other developers.
-- Experience interfacing with external teams to drive cross functional architecture.
-- Strong communication, analytical, and problem-solving skills.
-- Basic understanding of CI CD tools and Elasticsearch
-- Understanding of Agile methodology
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job description 30:
-
-- Java developer with strong object oriented programming with database skills and mainframe expertise.
-- 7 - 12 Years of experience in core Java designing, coding, debugging and implementation.
-- Solid understanding of Object oriented programming principal, preferably development and testing on z/OS environment.
-- Knowledge of Databases Proficient in database concepts, preferably Hierarchical Database, RDBMS(Db2, Oracle) knowledge is also acceptable.
-- Knowledge of App Dev on z/OS is a significant advantage
-- Proven problem solving and analytical skills
-- Familiarity with Assembler, JCL, REXX, IMS DB, IMS TM, DB2 on z/OS is a significant plus.
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Job description 31:
-
-- Proven experience as a PHP Laravel Developer with a minimum of 2-5 years of professional experience.
-- Strong proficiency in PHP, Laravel framework, MySQL, and AngularJS.
-- Knowledge of front-end technologies such as HTML, CSS, and JavaScript.
-- Familiarity with version control systems, preferably Git.
-- Experience with RESTful APIs and integrating third-party libraries and APIs.
-- Ability to work independently and in a team, with good communication and collaboration skills.
-- Strong problem-solving and analytical thinking abilities.
-- Attention to detail and a commitment to delivering high-quality code.
-- Self-motivated and able to work effectively in a remote work environment.
-
-----------------------------------------------------------------------------------------------------------------------------------------------------
