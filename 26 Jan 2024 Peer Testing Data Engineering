@@ -1,1 +1,166 @@
+4 platforms used naukri, linkednn, indeed, glassdoor 
 
+JD -1 
+Bachelor's or Master's degree in Computer Science, Statistics, Mathematics, or a related field
+At least 5 years of experience in data science, machine learning, and statistical modeling
+Proficient in programming languages such as Python, R, SQL, and SAS
+Experience with data visualization tools such as Tableau, MixPanel, Google Looker
+Strong understanding of statistical concepts and machine learning algorithms
+Knowledge of data engineering and data warehousing concepts, including RedShift, Redshift Spectrum, AWS Glue, AWS Lambda.
+Excellent communication and presentation skills to convey technical concepts to non-technical stakeholders
+Ability to work collaboratively in cross-functional teams and lead projects from ideation to implementation
+Experience mentoring junior data engineers and guiding best practices in modeling and analysis
+
+JD -2
+Bachelor's or Master's degree in Computer Science, Data Science, or a related field
+Proven experience in both data science and data engineering roles
+Strong proficiency in machine learning algorithms, statistical modeling, data visualization and data engineering
+Expertise in database design, data warehousing, and ETL processes
+Advanced programming skills in languages such as Python and R
+Familiarity with big data technologies and cloud platforms (e.g., Hadoop, Spark, AWS, Azure)
+Experience with cloud infrastructure (Azure, Google Cloud Platform and AWS)
+Experience with datalakes
+Excellent communication and collaboration skills
+
+JD -3
+Expertise in data and analytics engineering/data architecture.
+Expertise in Python and SQL. Expertise in R is a plus.
+Experience leveraging disparate data sets, in particular legislative/regulatory/economic/geospatial.
+Expertise in transforming data to be leveraged for self-service data visualization resources.
+Experience building and implementing ML models is a plus
+Talent for breaking down complex technical concepts into common language and acting as a bridge between technical and departmental stakeholders.
+Experience working with complex and big data systems across a multitude of relationships and metrics. Ability to apply a creative and nuanced perspective to look beyond common data indicators in order to meet business goals.
+Ability to self-serve and take the initiative to find answers to technical questions.
+Bachelor degree in Computer Science or Computer Engineering
+
+JD -4
+Lazy in a productive way (find tedious work boring and would rather automate it).
+You are not bothered by ambiguity, finding patterns in the most complex of environments and bringing order into chaos gives you joy.
+Charismatic, determined, curious, and industrious, and not just talented.
+Thrive in a fast-paced environment, and see yourself as a partner with the business with the shared goal of moving the business forward.
+Have strong beliefs that are weakly held: you can deliberate, and hear, all sides of a discussion and adapt to new perspectives that emerge from it.
+Sharp communicator who can break down and explain complex data problems in clear and concise language
+Hands-on experience building batch or streaming production data pipelines, ideally using Spark.
+Create code that is understandable, simple, and clean, and take pride in its beauty.
+Love freedom and hate being micromanaged. Given context, you're capable of self-direction.
+Deep expertise in data modeling and workflow authoring with the highest regard for data quality.
+Motivated to explore new technologies and learn, and can do so without taking formal education.
+
+JD -5
+Python and Pyspark
+Databricks
+Azure or any other cloud technology
+
+JD -6
+Minimum of a Bachelor's degree in Computer science, Engineering or a similar field
+7-9+ years of Ingestion, Integration and ETL relevant experience.
+Essential: Experience in loading data into warehouse/ ODS environment from diverse sources and formats
+Essential: Experience in Fivetran, DBT and Qlik Replicate
+Essential: Strong programming/ scripting skills in SQL and Python
+Essential: Design strategies for new data ingestion requests, including logical and physical data modelling
+Essential: Experience in data platforms: Snowflake, Oracle, SQL Server, PostgreSQL, and MySQL
+Essential: Lead R&D efforts to find solutions for data integration requirements not addressed by existing technology standards
+Essential: Develop metrics that illuminate the flow of data across the organization
+Essential: Experience in data modelling and relational database design
+Preferred: Experience in AWS data platforms and integration offerings
+Preferred: Knowledge of ETL tools: Talend
+
+JD -7
+5+ years of experience as Data engineer
+Understand METAMAP’s Data strategy
+Responsible for working with current system and new system to design and create the mechanism to extract, cleanse, transform, enrich, load and validate all required data
+Prior experience in Developing and validating the migration strategy especially in Cloud
+Contribute to the overall Program by sharing the recommendations, implementing POC s and Prove that solution works
+Work as an extended arm of METAMAP’s Data engineering team
+
+JD -8
+Develop Data pipelines using Apache Spark in the AWS environment.
+Create Fact Tables to be used by the Analytics team in Databricks Lakehouse.
+Code in SQL, Python and/or Scala.
+Automate processes by implementing CI/CD in Jenkins.
+Have the passion and ability to write clean, readable, well-designed, and well-documented code along with tests.
+Participate in all Sprint Rituals in collaboration with the EU eCom team in Amsterdam and the data engineers in our Gurgaon tech hub
+
+JD -9
+B.E/B.Tech/M.E/M.Tech/M.S./MCA or related field.
+5+ years of experience in PLSQL/SQL.
+2+ years of Snowflake experience
+Knowledge of Snaplogic ETL Tool
+Familiarity with JIRA or Trello.
+Experience in an agile environment.
+Experience in Snowflake and Snaplogic.
+Working knowledge of AWS or Azure.
+Migration experience from on-prem to cloud systems.
+Expertise in Data Lake Implementation in Snowflake (preferred).
+
+JD -10
+Bachelors degree or higher in Computer Science, or equivalent degree and 3-10 years related working experience.
+In-depth experience with a big data cloud platform, preferably Azure.
+Strong grasp of programming languages (Python, PySpark, or equivalent) and a willingness to learn new ones.
+Experience writing database-heavy services or APIs.
+Experience building and optimizing data pipelines, architectures, and data sets.
+Working knowledge of queueing, stream processing, and highly scalable data stores
+Experience working with and supporting cross-functional teams.
+Strong understanding of structuring code for testability.
+Professional experience implementing and maintaining MLOps pipelines in MLflow or AzureML.
+Professional experience implementing data ingestion pipelines using Data Factory.
+Professional experience with Databricks and coding with notebooks.
+Professional experience processing and manipulating data using SQL and Python code.
+
+JD -11
+Proficiency in Linux fundamentals and Bash scripting skills.
+Programming expertise in one or more languages, mainly: Python, Go, Scala, C++, Kotlin
+Expertise on Python libraries - Pandas, Numpy, PySpark, Dask.
+In-Depth Knowledge of Algorithms and Data Structures
+Deep understand of database systems e.g., PgSQL/MySQL and Microsoft SQL server
+Experience with at least one cloud platforms e.g., AWS, Azure, GCP
+Experience with one or more Datalakes/Datawarehouses - Snowflake / DataBricks / Redshift etc
+Experience in Stream processing - Kafka, Kineses etc
+Basic Experience with Node.js and JavaScript.
+Experienced in the implementation of Data warehousing solutions
+Experienced in the implementation of API solutions and tooling
+
+JD -12
+Having strong programming experience on Data Engineering side on Python, Scala or Java.
+Have worked on GCP and is hands on with data analysis, creating data pipelines and orchestration on GCP tools like Data flow, Datafusion, composer, BigQuery.
+Should have worked on Git or code repository.
+Should have worked on Agile delivery. Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience building or maintaining ETL processes from a wide variety of data sources using SQL.
+Experience building and optimizing big data data pipelines, architectures and data sets.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+Able to identify data quality issues and has worked with creating framework to resolve data quality issues. Java + Micro services Experience in Java 5-10 Experience in SprintBoot(2+years)
+Good Knowledge of Microservice Concept Framework: Springboot, Spring Security, JAX-RS, Hystrix, Kafka ORM: Spring Data JPA. Hibernate Cloud Service: AWS(MSK, S3), Serverless lambda Functions Build tools: Maven, Gradle
+
+JD -13
+Consistently strive to acquire new skills on Cloud, DevOps, Big Data, AI and ML
+Understand the business problem and translate these to data services and engineering outcomes
+Explore new technologies and learn new techniques to solve business problems creatively
+Think big! and drive the strategy for better data quality for the customers
+Collaborate with many teams - engineering and business, to build better data products
+Over 1-2 years of experience with
+Hands-on experience of any one programming language (Python, Java, Scala)
+Understanding of SQL is must
+Big data (Hadoop, Hive, Yarn, Sqoop)
+MPP platforms (Spark, Pig, Presto)
+Data-pipeline schedular tool (Ozzie, Airflow, Nifi)
+Streaming engines (Kafka, Storm, Spark Streaming)
+Any Relational database or DW experience
+Any ETL tool experience
+Hands-on experience in pipeline design, ETL and application development
+Good communication skills
+Experience in working independently and strong analytical skills
+Dependable and good team player
+Desire to learn and work with new technologies
+Automation in your blood
+
+JD -14
+Azure Data Engineering skill sets (Azure Data Factory, Databricks, Synapse, SQL, PostgreSQLetc) Python, PySpark, RDD, SQL and Big data processing NoSQL database experience Power BI & requirements gathering Airline Domain Data knowledge
+
+JD -15
+As a Data Engineer, you will build a variety of big data analytics solutions, including big data lakes. More specifically, you will:
+Design and build scalable data ingestion pipelines to handle real-time streams, CDC events, and batch data
+Execute high-performance data processing for structured and unstructured data and data harmonization
+Schedule, orchestrate and validate pipelines
+Design exception handling and log monitoring for debugging
+Make tech stack and tools related decisions
+Collaborate with business consultants, data scientists, and application developers to develop analytics solutions
