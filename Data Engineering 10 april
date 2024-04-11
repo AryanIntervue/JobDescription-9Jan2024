@@ -1,1 +1,148 @@
+JD 1
+Monitor and maintain actuarial data pipelines and workflows built on Azure Databricks and Dataiku.
+Troubleshoot and resolve data pipeline issues to ensure accurate and consistent data flows.
+Develop, implement and support Python scripts which are integral to actuarial data systems.
+Collaborate with actuaries and data engineers to understand data requirements and system behavior.
+Document and update data processes and procedures for clarity and consistency.
+Perform regular system backups and disaster recovery drills to ensure data security and availability.
+Provide technical support to actuaries and other stakeholders regarding data access and usage.
+Bonus points if you have:
+
+Experience working with actuarial data and systems.
+Familiarity with Azure Databricks and Dataiku administration tools.
+Strong understanding of azure data ecosystem and incident management techniques.
+Excellent attention to detail and problem-solving skills.
+A proactive and adaptable attitude with a willingness to learn new technologie
+
+JD 2
+Diagnose and Resolve Issues: Troubleshoot and fix data issues within our existing pipeline, which is built on Segment.
+ETL Development: Design, implement, and maintain ETL processes tailored for BigQuery and MySQL while adhering to privacy and governance principles.
+Data Cleansing: Develop and implement data validation and transformation solutions as an integral part of our ETL workflows.
+Data Integration: Utilize Segment for optimized data collection, integration, and management.
+Stakeholder Collaboration: Work closely with stakeholders to tackle specific data integrity and quality issues.
+Teamwork: Collaborate with our Senior Data Analyst and engineering team to refine data models and architectures.
+SQL Optimization: Write and fine-tune SQL queries for performance and scalability in BigQuery and MySQL environments.
+Documentation: Maintain meticulous documentation for all data processes and updates.
+What you'll need
+Bachelor’s degree in Computer Science, Engineering, or a related field.
+7+ years of relevant experience in data engineering, especially in data pipeline cleanup and ETL processes.
+Direct experience with Customer Data Platforms (CDP) such as Segment, Rudderstack, or Treasure Data.
+Mastery of SQL with hands-on experience in BigQuery and MySQL.
+Proficient in Google Cloud Platform services, particularly BigQuery and Google Analytics 4.
+Experience with modern programming languages like Python, R, JavaScript, and PHP.
+Exceptional problem-solving and communication skills.
+Proven expertise in data schemas and data cleaning principles.
+
+JD 3
+At least 4 years of experience in data engineering roles.
+Demonstrated experience with graph databases (e.g., Neo4j), time series databases, and document databases (e.g., MongoDB).
+Proficiency in data orchestration and workflow management using Prefect, Dagster, or similar tools, with a proven track record of automating complex data processes.
+Strong programming skills in Python, Scala, or Java, especially in the context of data manipulation and pipeline development.
+Solid understanding of data pipeline and storage architectures, including experience in integrating diverse database technologies.
+Excellent problem-solving abilities and a collaborative approach to working with cross-functional teams.
+Over and Above:
+
+Experience in cloud-based database solutions (e.g., Azure Cosmos DB, InfluxDB Cloud) and integrating them with data orchestration tools.
+Knowledge of data visualization tools and the ability to present complex data in a comprehensible manner.
+Understanding of data governance, privacy standards, and compliance in relation to data storage and processing technologies.
+
+JD 4
+8+ years in a developer, architect, engineer, or DBA role working with large data sets
+Subject matter expert in data ingestion concepts and best practices
+Subject matter expert in data pipeline design, development and automation
+Comfortable working with DevOps teams to optimize CI/CD pipelines
+Advanced SQL skill is required
+Experience coding with Python is required
+Experience with Snowflake, Fivetran, dbt, Tableau, and AWS is preferred
+Experience with Git version control and repository management in Gitlab
+Experience with advanced ELT tool administration (code deployment, security, setup, configuration, and governance)
+Experience with enterprise ELT tools like Fivetran, dbt, Matillion or other similar ETL/ELT tools 
+Expertise with one or more cloud-based data warehouses is required such as Snowflake
+Expertise extracting raw data from APIs using industry standard ingestion techniques
+Ability to explain complex information and concepts to technical and non-technical audiences 
+Enjoy supporting team members by sharing technical knowledge and helping solve problems
+Enjoy a connected, collegial environment even though we are remote, hybrid, and on-site
+Familiarity with documenting data definitions and code
+Driven by a fast-paced, energetic, results-oriented environment
+Exemplary organizational skills with the ability to manage multiple competing priorities
+
+JD 5
+Robust problem solving and analytics skills
+Software agility
+Agile Project Management
+Product ownership
+Financial business acumen
+Experience managing work using software version control like GitHub and/or Dev Ops.
+Must have familiarity with Microsoft Azure business intelligence, data lake platform and services (Hadoop, notebooks)
+Development tools (Power Apps, Power Automate)
+Designing and implementing data models, and data lake solutions
+Working with data scientists and digital teams to meet strategic data needs through project management tools like Microsoft Teams, JIRA, are desired.
+
+JD 6
+8+ years of experience in data engineering, with a strong background in cybersecurity or a related field.
+Demonstrated leadership skills, with the ability to guide and inspire a team of data engineers.
+Expertise in programming and scripting languages such as Python, SQL, and Scala or PySpark.
+Expertise in building and maintaining Data Lakehouses.
+Deep knowledge of big data frameworks (Apache Spark, Kafka, Flink) and cloud platforms and services, especially AWS (Glue, EMR, Athena, Redshift, and others).
+Proficiency in modern data stack platforms and tools, including experience with data integration, ETL/ELT pipelines, storage formats (parquet, avro), open table formats (iceberg, hudi, delta), semantic/query layers (trino, presto, dremio), ingestion tools (upsolver, airbyte), transformation tools (dbt).
+Experience with orchestration tools like Apache Airflow or Prefetch.
+Experience in setting up and maintaining data visualization platforms such as Apache Superset or Redash.
+A solid understanding of containerization and orchestration technologies, such as Docker and Kubernetes.
+Experience with data quality and governance tools, and knowledge of data privacy regulations like GDPR and CCPA.
+Excellent communication skills, with the ability to convey complex data concepts to technical and non-technical stakeholders alike.
+A strong desire to mentor and develop others, sharing your expertise to elevate the team's capabilities.
+
+JD 7
+2 or more years of experience as a back-end data/software engineer working on various data technologies with proficiency in Python and/or Javascript (Node.js)
+Must have at least 1 year of hand-on experience with Snowflake ecosystem including expert knowledge of SnowPipes, Streams, Views, performance tuning, data modeling, ELT pipelines, data visualizations, and implementing complex SQL stored procedures and standard DWH concepts.
+Minimum 2 years’ experience with various AWS cloud technologies and data lake management - S3, Lambda, Airflow, Redshift, Athena, Glue
+Able to demonstrate working knowledge of data clean-room technologies including creating secure data shares using RBAC. Knowledge of Snowflake Native apps (v6+) preferred.
+Knowledge of all aspects of the SDLC, experience with Jenkins and setting up CI/CD processes.
+Bachelor's degree in computer science or related field. SnowPro core or advanced certification is strongly preferred.
+
+JD 8
+B.S. Degree in Computer Science, Computer Engineering, or an equivalent degree and 5+ years of industry experience
+Hands-on experience with distributed technology such as Kafka, Spark, Spark Streaming, Storm, Flink, Cassandra
+Strong working knowledge of data structures and algorithms
+Mastery of an object oriented programming language, such as C++, Python, or Java
+Excellent attention to detail and rigorous testing methodology
+Exceptional written and verbal communication skills and team leading abilities
+Experience with robotics, automotive engineering, or start-ups is not required
+Experience mentoring and guiding junior engineers
+Ability to undergo a driving record check
+
+JD 9
+Manage and maintain the application platforms to support the uptime and availability in both Production and Test environments
+Validate the data pipeline executions to ensure that they are completed within the SLA’s.
+Troubleshoot issues related to data pipelines, data integrations, bug fixes, performance bottlenecks
+Working with multiple cross functional teams like DBA, Unix Server Administrator, Vendor Support to resolve any incidents / problems
+Support development teams as needed acting as Subject Matter Expert
+Upkeep of the systems by implementing security features like certificate, vulnerability, user access and service account management
+Migrate the legacy platforms to the next gen cloud platforms using AWS EMR, EC2 and Snowflake Cloud DataWarehouse
+Identify the areas of improvement by automating day to day activities
+Analyze and organize raw data to extract patterns for KPIs and Metrics to publish dashboards
+Work with Data Scientist / Business Analyst community to support the AI / ML Model development environments and operationalization of the models
+Be able to support Master Data Management Reltio , API Hub
+
+JD 10
+BA in MIS, BIS, or other IT concentration, BSCS, or related degree
+Minimum of 3 years working with databases, data modeling, data management, and data curation
+3-5 years of experience developing Power BI models and dashboards
+1-3 years of experience using Alteryx Designer to create data automation workflows
+Data preparation experience using SQL or scripting languages to create ETL processes, perform data cleansing, check data integrity
+Experience writing SQL queries against any RDBMS with query optimization
+SQL RDBMS experience in Microsoft SQL Server
+
+JD 11
+2+ years of hands-on python data engineering experience.
+1+ year of data modelling experience.
+1+ year of developer collaboration in git.
+1+ year of deploying into a cloud environment using Infrastructure as Code.
+Strong Data Modelling capabilities.
+Intermediate SQL experience.
+Experience supporting analysts & business intelligence teams.
+Strong business acumen.
+
+JD 12
+
 
