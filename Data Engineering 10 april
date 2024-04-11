@@ -144,5 +144,232 @@ Experience supporting analysts & business intelligence teams.
 Strong business acumen.
 
 JD 12
+Master of Science (or equivalent foreign degree) in Computer Science, Computer Engineering, or a closely related field and two (2) years of experience as a software engineer/developer involving data generation, extraction and integration.
+Experience with Data warehousing, data modeling, and building ETL pipelines
+Experience using Python and SQL to extract and transform large datasets
+Data analysis and visualization skills using Python
+Comfortability working with Cloud Computing solutions or similar tools
+Experience generating Data Quality Reports
 
+JD 13
+Bachelor’s Degree
+5+ years of Python, Pyspark experience
+5+ years of Snowflake experience
+5+ years of SQL experience
+5 years of Databricks experience
+2+ years of experience with cloud computing (Microsoft Azure)
+5+ years of experience in Agile practices
 
+JD 14
+1+ years of Experience in executing Data warehousing ETL projects.
+1+ years of Experience with Python
+1+ years of Experience with SQL
+1+ years of hands-on Experience with bash shell scripts, UNIX utilities & UNIX Commands
+1+ years of hands-on Experience with a major cloud platform (GCP, AWS, Azure)
+GCP Experience - BigQuery, Cloud SQL, Python, Cloud composer/Airflow , Cloud Storage & Dataflow/Data Fusion
+Hands-on experience building and deploying data transformation and processing solutions using Teradata utilities (BTEQ, TPT, FastLoad & SQL Queries).
+GCP - Data Engineer certification strongly preferred.
+Ability to leverage multiple tools and programming languages to analyze and manipulate data sets from disparate data sources.
+Strong problem-solving skills and critical thinking ability
+Strong collaboration and communication skills within and across teams
+Knowledge in Flask, JavaScript, HTML , CSS, Django
+Knowledge in BI Tools MicroStrategy, Tableau
+Must understand software development methodologies including waterfall and agile.
+Health Care/PBM domain experience
+Excellent communication and presentation skills.
+
+JD 15
+Bachelor's Degree in a quantitative discipline: Computer science, Statistics, Operations Research, Informatics, Engineering, Applied Mathematics, Economics, etc.
+● 3+ years of relevant industry or relevant academia experience working with large amounts of data
+● Experience with SQL/Relational databases
+● Background in at least one programming languages (e.g., R, Python, Java, Scala, PHP, JavaScript)
+● BS and 5+ years of relevant work experience, MS and 3+ years of relevant work experience, or Ph.D. and 1+ years of relevant work/academia experience working with large amounts of data
+● MS or PhD in a quantitative discipline: statistics, operations research, computer science, informatics, engineering, applied mathematics, economics, etc.
+● Experience in developing data pipelines using Spark and Hive.
+● Experience with data modeling, ETL (Extraction, Transformation & Load) concepts, and patterns for efficient data governance. Experience with manipulating massive-scale structured and unstructured data.
+● Experience with using distributed data systems such as Spark and related technologies (Presto/Trino, Hive, etc.).
+● Experience with either data workflows/modeling, front-end engineering, or back-end engineering.
+● Deep understanding of technical and functional designs for relational and MPP Databases
+● Experience in data visualization and dashboard design including tools such as Tableau, R visualization packages, streamlit, D3, and other libraries, etc.
+● Knowledge of Unix and Unix-like systems, version control systems such as Git.
+
+Suggested Skills:
+● Distributed Systems
+● ETL
+● Data Modeling
+
+JD 16
+2+ years of dedicated data engineering experience, solving complex data pipelines issues at scale.
+Comfortable with SQL and Python.
+Excited about the data space and want to grow modeling and dataset creation skills.
+Empathy working with stakeholders, want to understand their problems and collaboratively come up with the best solution.
+[Nice to have] Experience working both real-time systems like Airflow Kafka, DBT, and batch data pipelines in Redshift, Presto, and Data Lakes.
+[Nice to have] Experience with data privacy, data quality projects.
+
+JD 17
+2+ years of experience as a data engineer, or equivalent experience building data pipelines
+2+ years of experience with elements of the following technologies:
+Data Analytics: Airflow, DBT
+Business Intelligence Systems: Tableau, Looker, Sisense, Apache Superset
+Languages: Python, SQL---- Databases: SQL; NoSQL a bonus----
+Bonus – Data Warehousing: Snowflake, BigQuery
+Bonus -- Cloud Infrastructure: AWS or Google Cloud Experience
+Bonus -- DevOps: Experience with modern cloud and container tooling such as Docker, Kubernetes, Terraform, etc
+Strong communication and collaboration skills, with the ability to effectively communicate the complexities of technical programs to both technical and nontechnical stakeholders
+Desire to mentor and collaborate with other members of the team
+Willingness to roll your sleeves up to rapidly acquire competencies in a wide range of technical disciplines
+Bachelor’s degree in Computer Science, Software Engineering, Information Systems, or equivalent experience
+
+JD 18
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Extensive Experience on BigQuery, DataProc and DataFlow platforms on Google Cloud platform. Having experience on Azure Databricks is an added advantage (not mandatory).
+Experience on Cluster capacity configurations and cloud optimization to meet application demand.
+Programming experience on Python, Shell scripting, PySpark and other data programming language.
+Programming experience on Apache Beam Java SDK for building effective heavy data piplines and deploying them in GCP DataFlow. CICD process to deploy these pipelines in GCP.
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Strong analytic skills related to working with Data Visualization Dashboard, Metrics and etc.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+A successful history of manipulating, processing and extracting value from large disconnected datasets.
+Working knowledge of message queuing, stream processing, and highly scalable 'big data' data stores.
+Familiar with Deployment tool like Docker and building CI/CD pipelines.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+8+ years' experience in software development, Data engineering, and
+Bachelor's degree in computer science, Statistics, Informatics, Information Systems or another quantitative field. Postgraduate/master's degree is preferred.
+Experience in Machine Learning and Data Modeling is a plus.
+
+JD 19
+The project location is Bellevue, WA. Candidate must be located within commuting distance of Bellevue, WA or willing to relocate. This position will require relocation and / or travel to project locations. The candidate will be required to work in PST business hours.
+Bachelor’s degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education.
+At least 4 years of experience in Information Technology.
+At least 3 years of experience in designing, implementing, and maintaining robust and scalable data pipelines on Azure using services such as Azure Data Factory, Azure SQL Data Warehouse, Azure Analysis Services or any of the Azure Databricks/Synapse/Fabric.
+At least 2 years of experience in data platforms – with multi layered approach, Design/Architecture setup is needed.
+At least 2 years of experience in troubleshooting performance issues, identifying root cause and applying fixes.
+At least 3 years of experience in SQL.
+Ability to implement and manage CI/CD pipelines for data engineering projects, leveraging tools like Azure DevOps.
+U.S. citizens and those authorized to work in the U.S. are encouraged to apply
+
+JD 20
+You have the commitment to take ownership of assigned technical projects in a fast-paced environment. You are comfortable in written and speaking communication skills as we work in a collaborative cross-functional environment and interact with the full spectrum of business divisions. You demonstrate unsatiated curiosity and engaging interpersonal “soft” skills. Ideal candidates have more than just knowledge or skill set, as they also have a “can do” mindset to find solutions and learn what is needed.
+• Bachelor of Science degree in Computer Science or equivalent
+• At least 6 months – 1 year post-degree professional experience
+• Strongly preferred experience in data analysis to create, publish, and/or manage reports and data visualizations in Tableau, PowerBI, AWS Quicksight, or AWS DataZone (i.e., our target solutions)
+• Knowledge of the best practices in building and preparing data for analytics, including data prep, semantic data models
+• Strong knowledge with database technologies and data development such as Python, PLSQL, etc.
+• Understanding how to build and modify data queries/applications, including performance tuning
+• Identify necessary business rules for extracting data along with functional or technical risks related to data sources (e.g. data latency, frequency, etc.)
+• Basic understanding of performing test cases for profiling data, validating analysis, testing assumptions, driving data quality assessment specifications, and define a path to deployment
+• Compehension of best practices for data ingestion and data design
+• Familiar with best practices for data ingestion and data design
+Benefits/perks listed below may vary depending on the nature of your employment with LTIMindtree (“LTIM”):
+
+JD 21
+Pursuing bachelor's or master's degree in computer science or in a related field
+Understanding of data engineering and data modeling
+Strong analytical, comprehension and problem-solving skills
+1+ years of academic or industry experience with Python or Java, or Scala
+1+ years of experience with SQL
+Experience with Agile and SDLC, Git workflows, and CI/CD
+Experience with cloud services like AWS and/or GCP
+Knowledge of RESTful services and APIs
+Experience building data pipelines using Spark/Airflow
+Exposure to pub-sub messaging systems like Kafka
+
+JD 22
+Excellent problem solving, troubleshooting, and communication skills especially in a hybrid and remote environment.
+Desire to learn new technologies.
+Demonstrated ability to design and write maintainable software.
+Understanding of software engineering best practices, object oriented analysis & design, and design patterns & algorithms.
+Experience enhancing and evolving existing systems.
+Almost all of our codebase is in Scala and Python, but we only require that you have a high proficiency in at least one object oriented or functional programming language.
+A strong candidate will also have:
+Experience writing ETL Jobs and working with data at scale.
+Experience writing and maintaining real time / streaming data pipelines.
+Familiarity with some of the following: Spark, Scala, Python, AWS, Databricks, Airflow.
+Fluency in SQL
+Other nice to haves: Kubernetes, Machine Learning.
+
+JD 23
+Strong technical accomplishments in SQL and data analysis skills
+Experience with data transformation orchestration tools like dbt or Dataform
+Basic business intuition and ability to understand complex business systems
+Familiarity with additional transformation platforms like Apache Spark and Beam
+Experience with MPP databases such as BigQuery, Redshift, or Snowflake. We use BigQuery here at Mailchimp
+Experience with visualization technologies like Looker, Tableau, or Qlik Sense
+Experience with GCP/AWS or other cloud providers is preferred
+Familiarity with Python, Go, Java or another OOP language. Most of our tools are primarily built in Python
+Familiarity with ETL orchestration tools like Apache Airflow and Google Dataflow
+
+JD 24
+Bachelor's Degree in a quantitative discipline: Computer Science, Statistics, Operations Research, Informatics, Engineering, Applied Mathematics, Economics, etc
+4+ years of relevant industry or relevant academia experience working with large amounts of data
+Experience with SQL/Relational databases
+Background in at least one programming languages (e.g., R, Python, Java, Scala, PHP, JavaScript)
+BS and 7+ years of relevant work experience, MS and 5+ years of relevant work experience, or Ph.D. and 3+ years of relevant work/academia experience working with large amounts of data
+MS or PhD in a quantitative discipline: Statistics, Operations Research, Computer Science, Informatics, Engineering, Applied Mathematics, Economics, etc.
+Java
+Distributed Systems
+Relational Databases
+Technical Leadership
+
+JD 25
+Bachelor's degree or higher in a quantitative/technical field (e.g. Computer Science, Statistics, Engineering).
+1+ years of relevant experience in one of the following areas: Data engineering, database engineering, business intelligence or business analytics.
+1+ years of hands-on experience in writing complex, highly optimized SQL queries across large data sets.
+1+ years of experience in scripting languages like Python, R etc.
+Demonstrated strength in data cleaning and modeling, ETL development, and Data warehousing.
+Experience in working and delivering end-to-end projects.
+Knowledge of distributed systems as it pertains to data storage and computing.
+Experience with snowflake and tableau server
+Experience with AWS or Azure services
+
+JD 26
+Minimum 2 years experience in a Data Engineering or similar role
+Building data pipelines and transforming data
+Data Warehousing techniques
+Strong SQL skills
+Excellent problem-solving and analytical skills
+Strong communication skills and ability to explain technical concepts to non-technical audiences
+Bachelor's degree in Computer Science, Software Engineering, or a related field
+Experience with Azure Data Factory (ADF), DBT (Data Build Tool), and Snowflake
+Experience with the Data Vault 2.0 and Kimball modeling technique
+Experience writing python scripts
+
+JD 27
+Bachelor’s degree in Computer Engineering, Information Technology, Information Systems, Computer Science, or a related discipline or equivalent work
+Strong software engineering skills
+At least 1 year of experience building data pipelines using Python, SQL, and other common data platform technologies
+Aptitude for learning new technologies and analytics techniques
+Experience with Java and/or Ruby is a plus
+
+JD 28
+Bachelor’s Degree in a quantitative or computational field such as Statistics, Computer Science or Applied Mathematics
+5+ years of experience in analytical development and/or data management
+Full-cycle software development knowledge
+Proven track record in hands-on development of analytical solutions
+High level of proficiency in SQL and programming tools (R, Python, MATLAB, VBA, SSRS)
+Experience with PowerBI and MS SharePoint development
+Interested in financial markets
+Familiarity with Bloomberg API/BQL is a plus
+Strong communication skills with the ability to take initiative and work independently
+Timeliness, Consistency, and Accuracy of work is a top priority
+High level of integrity, professionalism and ethical standards
+
+JD 29
+2+ years of programming experience in languages such as Python, Java, SQL
+2+ years of experience with ETL tools and database management (relational, non-relational)
+2+ years of experience in data modeling techniques and tools to design efficient scalable data structures
+Skills in data quality assessment, data cleansing, and data validation
+Knowledge of big data technologies and cloud platforms
+Experience with technologies like PySpark, Databricks, and Azure Synapse.
+
+JD 30
+Bachelor’s degree or higher in Computer Science or a related field. 
+2+ years of experience in developing code on JVM (Java or Scala preferred). 
+2+ years of Spark experience. 
+Capable of writing code in at least one of the programming languages like Scala, Python, and Java.  
+Knowledge of source code repository like GIT/Azure Repos & build tools like Maven. 
+Familiar with agile development practices. 
+1+ year of experience in data engineering.  
+Good understanding of distributed computing (Spark), cloud architecture and SQL. 
+Experience working with public clouds like Azure, AWS, Google etc. 
+Personal qualities such as creativity, tenacity, curiosity, and passion for deep technical excellence. 
